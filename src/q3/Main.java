@@ -1,6 +1,8 @@
+package q3;
+
 import java.util.ArrayList;
 
-public class q3 {
+public class Main {
     public static void main(String[] args) {
         ArrayList<Integer> nums = new ArrayList<>();
         nums.add(3);
